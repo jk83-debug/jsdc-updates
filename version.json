@@ -1,0 +1,14 @@
+{
+    "version":  "27.8",
+    "date":  "2026-11-24",
+    "changes":  [
+                    "Neu: Das Spiel meldet im Hauptmenü, wenn es ein Update gibt",
+                    "Tür zu Level 2 im Lager (mit Zahlenschloss)",
+                    "Controller-Steuerung mit eigener Tastenbelegung",
+                    "Foto- und Trophäenwand im Lager",
+                    "Skelettkönigin, Elite-Skelette und neue Lager-Stationen"
+                ],
+    "windows":  "https://github.com/jk83-debug/jsdc-updates/releases/download/v27.8/JKs_Super_Dungeon_Dish_Crawler_Setup_27.8.exe",
+    "linux":  "https://github.com/jk83-debug/jsdc-updates/releases/download/v27.8/JKs_Super_Dungeon_Dish_Crawler-27.8-x86_64.AppImage",
+    "page":  "https://github.com/jk83-debug/jsdc-updates/releases/latest"
+}
