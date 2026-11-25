@@ -1,14 +1,14 @@
 {
-    "version":  "28.5",
+    "version":  "29.0",
     "date":  "2026-11-25",
     "changes":  [
-                    "Neu: Level 2 „Die Gildenküche“ – Jump and Run im 16-Bit-Look (Tür im Lager)",
-                    "Welt 1 komplett: 6 Abschnitte, Burg 1 und der Riesen-Suppentopf",
-                    "Küchen-Extras, Barbar und Bogenschütze mit eigener Figur, neue Gegner",
-                    "Eigene Musik und Töne für Level 2",
-                    "Controller-Feinschliff und viele kleine Verbesserungen"
+                    "Neu: Welt 2 „Die Ruinen“ in Level 2 – 6 Abschnitte voller Grusel und Tempelruinen",
+                    "Bröckelnde Steine, Ranken zum Schwingen, Laternen im Dunkeln, Geisterböen",
+                    "Neue Gegner: der Dreihals und the Bitch – und das Fleischermesser als Bumerang",
+                    "Burg 2 mit dem Knochendrachen",
+                    "Riesen-Suppentopf mit 2 Phasen, weichere Musik und neue Töne"
                 ],
-    "windows":  "https://github.com/jk83-debug/jsdc-updates/releases/download/v28.5/JKs_Super_Dungeon_Dish_Crawler_Setup_28.5.exe",
-    "linux":  "https://github.com/jk83-debug/jsdc-updates/releases/download/v28.5/JKs_Super_Dungeon_Dish_Crawler-28.5-x86_64.AppImage",
+    "windows":  "https://github.com/jk83-debug/jsdc-updates/releases/download/v29.0/JKs_Super_Dungeon_Dish_Crawler_Setup_29.0.exe",
+    "linux":  "https://github.com/jk83-debug/jsdc-updates/releases/download/v29.0/JKs_Super_Dungeon_Dish_Crawler-29.0-x86_64.AppImage",
     "page":  "https://github.com/jk83-debug/jsdc-updates/releases/latest"
 }
