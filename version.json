@@ -1,14 +1,14 @@
 {
-    "version":  "29.0",
-    "date":  "2026-11-25",
+    "version":  "30.0",
+    "date":  "2026-11-26",
     "changes":  [
-                    "Neu: Welt 2 „Die Ruinen“ in Level 2 – 6 Abschnitte voller Grusel und Tempelruinen",
-                    "Bröckelnde Steine, Ranken zum Schwingen, Laternen im Dunkeln, Geisterböen",
-                    "Neue Gegner: der Dreihals und the Bitch – und das Fleischermesser als Bumerang",
-                    "Burg 2 mit dem Knochendrachen",
-                    "Riesen-Suppentopf mit 2 Phasen, weichere Musik und neue Töne"
+                    "Neu: Welt 3 „Das verfluchte Kochbuch“ – Level 2 ist komplett!",
+                    "6 Abschnitte nach Menügängen, ein Bonus- und ein Geheimabschnitt",
+                    "Pop-up-Teile, Zauber-Federkiel, umblätternde Seiten und steigende Tinte",
+                    "Burg 3: der Bibliotheksturm mit der Skelettkönigin als Tintenzeichnung",
+                    "Belohnung im Lager, neue Gegner, das Tintenfass und unheimliche Musik"
                 ],
-    "windows":  "https://github.com/jk83-debug/jsdc-updates/releases/download/v29.0/JKs_Super_Dungeon_Dish_Crawler_Setup_29.0.exe",
-    "linux":  "https://github.com/jk83-debug/jsdc-updates/releases/download/v29.0/JKs_Super_Dungeon_Dish_Crawler-29.0-x86_64.AppImage",
+    "windows":  "https://github.com/jk83-debug/jsdc-updates/releases/download/v30.0/JKs_Super_Dungeon_Dish_Crawler_Setup_30.0.exe",
+    "linux":  "https://github.com/jk83-debug/jsdc-updates/releases/download/v30.0/JKs_Super_Dungeon_Dish_Crawler-30.0-x86_64.AppImage",
     "page":  "https://github.com/jk83-debug/jsdc-updates/releases/latest"
 }
