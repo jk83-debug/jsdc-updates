@@ -1,14 +1,13 @@
 {
-    "version":  "31.0",
+    "version":  "31.1",
     "date":  "2026-11-27",
     "changes":  [
-                    "Level 2: 3 Sterne in jedem Abschnitt – alle Münzen, ohne Treffer, unter der Zielzeit",
-                    "Alle Sterne einer Welt schalten eine neue Heldenfarbe frei (Gold, Knochenweiß, Tinte)",
-                    "Händlerzelt in jeder Welt: Extras, Glücksbeutel und das dritte Herz für Münzen",
-                    "Zeitrennen gegen deinen eigenen Geist – mit Bestzeit je Klasse",
-                    "Das Update-Fenster öffnet sich bei einer neuen Version jetzt von selbst"
+                    "Neu im Lager: ein Spielautomat am Lagerfeuer – „JKs Dish Crawler 2: Die Höllenküche“",
+                    "Auf dem Bildschirm läuft schon eine Vorführung aus Teil 2 (Retro-Shooter mit Voxel-Gegnern)",
+                    "Teil 2 ist in Arbeit – sobald es installiert ist, startest du es direkt am Automaten",
+                    "Dazu alles aus 31.0: Sterne, Händlerzelte und Zeitrennen in Level 2"
                 ],
-    "windows":  "https://github.com/jk83-debug/jsdc-updates/releases/download/v31.0/JKs_Super_Dungeon_Dish_Crawler_Setup_31.0.exe",
-    "linux":  "https://github.com/jk83-debug/jsdc-updates/releases/download/v31.0/JKs_Super_Dungeon_Dish_Crawler-31.0-x86_64.AppImage",
+    "windows":  "https://github.com/jk83-debug/jsdc-updates/releases/download/v31.1/JKs_Super_Dungeon_Dish_Crawler_Setup_31.1.exe",
+    "linux":  "https://github.com/jk83-debug/jsdc-updates/releases/download/v31.1/JKs_Super_Dungeon_Dish_Crawler-31.1-x86_64.AppImage",
     "page":  "https://github.com/jk83-debug/jsdc-updates/releases/latest"
 }
