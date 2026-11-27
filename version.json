@@ -1,14 +1,14 @@
 {
-    "version":  "30.1",
-    "date":  "2026-11-26",
+    "version":  "31.0",
+    "date":  "2026-11-27",
     "changes":  [
-                    "Bibliotheksturm doppelt so hoch – mit Rohren an drei Bücherwänden",
-                    "Rohre: draufstellen und Runter drücken – hoch oder zurück an den Anfang?",
-                    "Bonus-Weg zu 3-1-1 von Anfang an sichtbar, Banner in 3-1",
-                    "3 Extra-Leben für den Bonus-Abschnitt (beim ersten Mal)",
-                    "Kleine Fehlerkorrekturen in Welt 3"
+                    "Level 2: 3 Sterne in jedem Abschnitt – alle Münzen, ohne Treffer, unter der Zielzeit",
+                    "Alle Sterne einer Welt schalten eine neue Heldenfarbe frei (Gold, Knochenweiß, Tinte)",
+                    "Händlerzelt in jeder Welt: Extras, Glücksbeutel und das dritte Herz für Münzen",
+                    "Zeitrennen gegen deinen eigenen Geist – mit Bestzeit je Klasse",
+                    "Das Update-Fenster öffnet sich bei einer neuen Version jetzt von selbst"
                 ],
-    "windows":  "https://github.com/jk83-debug/jsdc-updates/releases/download/v30.1/JKs_Super_Dungeon_Dish_Crawler_Setup_30.1.exe",
-    "linux":  "https://github.com/jk83-debug/jsdc-updates/releases/download/v30.1/JKs_Super_Dungeon_Dish_Crawler-30.1-x86_64.AppImage",
+    "windows":  "https://github.com/jk83-debug/jsdc-updates/releases/download/v31.0/JKs_Super_Dungeon_Dish_Crawler_Setup_31.0.exe",
+    "linux":  "https://github.com/jk83-debug/jsdc-updates/releases/download/v31.0/JKs_Super_Dungeon_Dish_Crawler-31.0-x86_64.AppImage",
     "page":  "https://github.com/jk83-debug/jsdc-updates/releases/latest"
 }
